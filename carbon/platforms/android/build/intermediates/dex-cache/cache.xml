@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/gopal007/EVS/Project/Carbon_Calculator/carbon/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/gopal007/EVS/Project/Carbon_Calculator/carbon/platforms/android/build/intermediates/pre-dexed/F0/debug/internal_impl-24.2.1_e13553a8f40b818e32fe7bcb82322a513d9d1e33.jar" />
+    </item>
+    <item
+        jar="/home/gopal007/EVS/Project/Carbon_Calculator/carbon/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/gopal007/EVS/Project/Carbon_Calculator/carbon/platforms/android/build/intermediates/pre-dexed/F0/debug/internal_impl-24.2.1_b34c3d4045d4b0bdc2fca759f1dd7d180563b34b.jar" />
+    </item>
+    <item
+        jar="/home/gopal007/EVS/Project/Carbon_Calculator/carbon/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/gopal007/EVS/Project/Carbon_Calculator/carbon/platforms/android/build/intermediates/pre-dexed/F0/debug/internal_impl-24.2.1_02d2897e12abd9e63481ee9fe356ce90b2d21d9e.jar" />
+    </item>
+    <item
+        jar="/home/gopal007/EVS/Project/Carbon_Calculator/carbon/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/gopal007/EVS/Project/Carbon_Calculator/carbon/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-compat-24.2.1_e40c0710ebda6243f8fe4d12056ada1286188678.jar" />
+    </item>
+    <item
+        jar="/home/gopal007/EVS/Project/Carbon_Calculator/carbon/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="f3064a6bb3bf091d8ef08a38816df98e4c033ce2">
+        <dex dex="/home/gopal007/EVS/Project/Carbon_Calculator/carbon/platforms/android/build/intermediates/pre-dexed/F0/debug/intermediates-exploded-aar-widgets-release_fede1f84bd63ba9262d6f8f12b4059cafbe64636.jar" />
+    </item>
+    <item
+        jar="/home/gopal007/EVS/Project/Carbon_Calculator/carbon/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/gopal007/EVS/Project/Carbon_Calculator/carbon/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-utils-24.2.1_3d4c72ea167a2eb82204c023ca727a1147de05b0.jar" />
+    </item>
+    <item
+        jar="/home/gopal007/EVS/Project/Carbon_Calculator/carbon/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/gopal007/EVS/Project/Carbon_Calculator/carbon/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-fragment-24.2.1_032d8d9d74a70ac32144ec4cdc0eddb98ae5da9a.jar" />
+    </item>
+    <item
+        jar="/home/gopal007/EVS/Project/Carbon_Calculator/carbon/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/gopal007/EVS/Project/Carbon_Calculator/carbon/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-vector-drawable-24.2.1_47e6dd2046f82875920c5821662a441da859f423.jar" />
+    </item>
+    <item
+        jar="/home/gopal007/EVS/Project/Carbon_Calculator/carbon/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/gopal007/EVS/Project/Carbon_Calculator/carbon/platforms/android/build/intermediates/pre-dexed/F0/debug/internal_impl-24.2.1_24cc7c26c3d2fcb738236bc7144d59797e2809f8.jar" />
+    </item>
+    <item
+        jar="/home/gopal007/EVS/Project/Carbon_Calculator/carbon/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/gopal007/EVS/Project/Carbon_Calculator/carbon/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-animated-vector-drawable-24.2.1_5067e310c337e01568c02599f0c52c7856902c79.jar" />
+    </item>
+    <item
+        jar="/home/gopal007/EVS/Project/Carbon_Calculator/carbon/platforms/android/build/intermediates/exploded-aar/carbon/runtime/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="9909ad5fcc13fcc60529cfa340ee7e0abc79af38">
+        <dex dex="/home/gopal007/EVS/Project/Carbon_Calculator/carbon/platforms/android/build/intermediates/pre-dexed/F0/debug/carbon-runtime-unspecified_1c5961036c8b5299da19c9058b05c5026465cef6.jar" />
+    </item>
+    <item
+        jar="/home/gopal007/EVS/Project/Carbon_Calculator/carbon/platforms/android/build/intermediates/exploded-aar/carbon/runtime/unspecified/jars/libs/binding-generator.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="4290aba11bda501dbadc2dd5c4b08282c0bbfeb8">
+        <dex dex="/home/gopal007/EVS/Project/Carbon_Calculator/carbon/platforms/android/build/intermediates/pre-dexed/F0/debug/binding-generator_3f42b07f2ec129e9060940e2c3323ccbc0b98ba0.jar" />
+    </item>
+    <item
+        jar="/home/gopal007/EVS/Project/Carbon_Calculator/carbon/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/gopal007/EVS/Project/Carbon_Calculator/carbon/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-ui-24.2.1_5feae51974be79d75e8d895b6adf2ea83dc03be1.jar" />
+    </item>
+    <item
+        jar="/home/gopal007/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/gopal007/EVS/Project/Carbon_Calculator/carbon/platforms/android/build/intermediates/pre-dexed/F0/debug/support-annotations-24.2.1_3f0236fdb8c584a934d1594d77aee719e031c5c8.jar" />
+    </item>
+    <item
+        jar="/home/gopal007/EVS/Project/Carbon_Calculator/carbon/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/gopal007/EVS/Project/Carbon_Calculator/carbon/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-v4-24.2.1_8eeddbd0f44390769be97080894cc72484002e11.jar" />
+    </item>
+    <item
+        jar="/home/gopal007/EVS/Project/Carbon_Calculator/carbon/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/gopal007/EVS/Project/Carbon_Calculator/carbon/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-appcompat-v7-24.2.1_1f211f14fdddda59c8f491b74f7b50798a1b979a.jar" />
+    </item>
+    <item
+        jar="/home/gopal007/EVS/Project/Carbon_Calculator/carbon/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/gopal007/EVS/Project/Carbon_Calculator/carbon/platforms/android/build/intermediates/pre-dexed/F0/debug/internal_impl-24.2.1_c479e37bc608571a7d121a1c58a37d46b0715a42.jar" />
+    </item>
+    <item
+        jar="/home/gopal007/EVS/Project/Carbon_Calculator/carbon/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/gopal007/EVS/Project/Carbon_Calculator/carbon/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-media-compat-24.2.1_e2dafbdcd93b18b0669f0bf953d9efef06f12561.jar" />
+    </item>
+
+</items>

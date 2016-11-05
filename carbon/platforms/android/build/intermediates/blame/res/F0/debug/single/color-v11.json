@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/gopal007/EVS/Project/Carbon_Calculator/carbon/platforms/android/build/intermediates/res/merged/F0/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/gopal007/EVS/Project/Carbon_Calculator/carbon/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/gopal007/EVS/Project/Carbon_Calculator/carbon/platforms/android/build/intermediates/res/merged/F0/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/gopal007/EVS/Project/Carbon_Calculator/carbon/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]
